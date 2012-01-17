@@ -2077,52 +2077,53 @@ naming: grid - package width</description>
 <sheets>
 <sheet>
 <plain>
+<text x="335.28" y="12.7" size="1.778" layer="91">TODO: Check what's PCI?</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="2.54" y="12.7"/>
 <instance part="U1" gate="A" x="157.48" y="109.22"/>
 <instance part="U2" gate="A" x="157.48" y="45.72"/>
 <instance part="U3" gate="A" x="157.48" y="-20.32"/>
-<instance part="LCD" gate="-1" x="320.04" y="88.9"/>
-<instance part="LCD" gate="-2" x="320.04" y="86.36"/>
-<instance part="LCD" gate="-3" x="320.04" y="83.82"/>
-<instance part="LCD" gate="-4" x="320.04" y="81.28"/>
-<instance part="LCD" gate="-5" x="320.04" y="78.74"/>
-<instance part="LCD" gate="-6" x="320.04" y="76.2"/>
-<instance part="LCD" gate="-7" x="320.04" y="73.66"/>
-<instance part="LCD" gate="-8" x="320.04" y="71.12"/>
-<instance part="LCD" gate="-9" x="320.04" y="68.58"/>
-<instance part="LCD" gate="-10" x="320.04" y="66.04"/>
-<instance part="LCD" gate="-11" x="320.04" y="63.5"/>
-<instance part="LCD" gate="-12" x="320.04" y="60.96"/>
-<instance part="LCD" gate="-13" x="320.04" y="58.42"/>
-<instance part="LCD" gate="-14" x="320.04" y="55.88"/>
-<instance part="LCD" gate="-15" x="320.04" y="53.34"/>
-<instance part="LCD" gate="-16" x="320.04" y="50.8"/>
-<instance part="LCD" gate="-17" x="320.04" y="48.26"/>
-<instance part="LCD" gate="-18" x="320.04" y="45.72"/>
-<instance part="LCD" gate="-19" x="320.04" y="43.18"/>
-<instance part="LCD" gate="-20" x="320.04" y="40.64"/>
-<instance part="LCD" gate="-21" x="320.04" y="38.1"/>
-<instance part="LCD" gate="-22" x="320.04" y="35.56"/>
-<instance part="LCD" gate="-23" x="320.04" y="33.02"/>
-<instance part="LCD" gate="-24" x="320.04" y="30.48"/>
-<instance part="LCD" gate="-25" x="320.04" y="27.94"/>
-<instance part="LCD" gate="-26" x="320.04" y="25.4"/>
-<instance part="LCD" gate="-27" x="320.04" y="22.86"/>
-<instance part="LCD" gate="-28" x="320.04" y="20.32"/>
-<instance part="LCD" gate="-29" x="320.04" y="17.78"/>
-<instance part="LCD" gate="-30" x="320.04" y="15.24"/>
-<instance part="LCD" gate="-31" x="320.04" y="12.7"/>
-<instance part="LCD" gate="-32" x="320.04" y="10.16"/>
-<instance part="LCD" gate="-33" x="320.04" y="7.62"/>
-<instance part="LCD" gate="-34" x="320.04" y="5.08"/>
-<instance part="LCD" gate="-35" x="320.04" y="2.54"/>
-<instance part="LCD" gate="-36" x="320.04" y="0"/>
-<instance part="LCD" gate="-37" x="320.04" y="-2.54"/>
-<instance part="LCD" gate="-38" x="320.04" y="-5.08"/>
-<instance part="LCD" gate="-39" x="320.04" y="-7.62"/>
-<instance part="LCD" gate="-40" x="320.04" y="-10.16"/>
+<instance part="LCD" gate="-1" x="322.58" y="88.9"/>
+<instance part="LCD" gate="-2" x="322.58" y="86.36"/>
+<instance part="LCD" gate="-3" x="322.58" y="83.82"/>
+<instance part="LCD" gate="-4" x="322.58" y="81.28"/>
+<instance part="LCD" gate="-5" x="322.58" y="78.74"/>
+<instance part="LCD" gate="-6" x="322.58" y="76.2"/>
+<instance part="LCD" gate="-7" x="322.58" y="73.66"/>
+<instance part="LCD" gate="-8" x="322.58" y="71.12"/>
+<instance part="LCD" gate="-9" x="322.58" y="68.58"/>
+<instance part="LCD" gate="-10" x="322.58" y="66.04"/>
+<instance part="LCD" gate="-11" x="322.58" y="63.5"/>
+<instance part="LCD" gate="-12" x="322.58" y="60.96"/>
+<instance part="LCD" gate="-13" x="322.58" y="58.42"/>
+<instance part="LCD" gate="-14" x="322.58" y="55.88"/>
+<instance part="LCD" gate="-15" x="322.58" y="53.34"/>
+<instance part="LCD" gate="-16" x="322.58" y="50.8"/>
+<instance part="LCD" gate="-17" x="322.58" y="48.26"/>
+<instance part="LCD" gate="-18" x="322.58" y="45.72"/>
+<instance part="LCD" gate="-19" x="322.58" y="43.18"/>
+<instance part="LCD" gate="-20" x="322.58" y="40.64"/>
+<instance part="LCD" gate="-21" x="322.58" y="38.1"/>
+<instance part="LCD" gate="-22" x="322.58" y="35.56"/>
+<instance part="LCD" gate="-23" x="322.58" y="33.02"/>
+<instance part="LCD" gate="-24" x="322.58" y="30.48"/>
+<instance part="LCD" gate="-25" x="322.58" y="27.94"/>
+<instance part="LCD" gate="-26" x="322.58" y="25.4"/>
+<instance part="LCD" gate="-27" x="322.58" y="22.86"/>
+<instance part="LCD" gate="-28" x="322.58" y="20.32"/>
+<instance part="LCD" gate="-29" x="322.58" y="17.78"/>
+<instance part="LCD" gate="-30" x="322.58" y="15.24"/>
+<instance part="LCD" gate="-31" x="322.58" y="12.7"/>
+<instance part="LCD" gate="-32" x="322.58" y="10.16"/>
+<instance part="LCD" gate="-33" x="322.58" y="7.62"/>
+<instance part="LCD" gate="-34" x="322.58" y="5.08"/>
+<instance part="LCD" gate="-35" x="322.58" y="2.54"/>
+<instance part="LCD" gate="-36" x="322.58" y="0"/>
+<instance part="LCD" gate="-37" x="322.58" y="-2.54"/>
+<instance part="LCD" gate="-38" x="322.58" y="-5.08"/>
+<instance part="LCD" gate="-39" x="322.58" y="-7.62"/>
+<instance part="LCD" gate="-40" x="322.58" y="-10.16"/>
 <instance part="IC1" gate="G$1" x="53.34" y="83.82"/>
 <instance part="U4" gate="A" x="157.48" y="-83.82"/>
 <instance part="C1" gate="G$1" x="66.04" y="71.12"/>
@@ -2144,7 +2145,7 @@ naming: grid - package width</description>
 <segment>
 <wire x1="200.66" y1="127" x2="200.66" y2="-20.32" width="0.762" layer="92"/>
 <wire x1="200.66" y1="127" x2="309.88" y2="127" width="0.762" layer="92"/>
-<wire x1="309.88" y1="127" x2="309.88" y2="-10.16" width="0.762" layer="92"/>
+<wire x1="309.88" y1="127" x2="309.88" y2="20.32" width="0.762" layer="92"/>
 </segment>
 </bus>
 </busses>
@@ -2181,14 +2182,6 @@ naming: grid - package width</description>
 <wire x1="66.04" y1="66.04" x2="66.04" y2="58.42" width="0.1524" layer="91"/>
 <junction x="53.34" y="66.04"/>
 <junction x="66.04" y="58.42"/>
-<wire x1="139.7" y1="104.14" x2="139.7" y2="101.6" width="0.1524" layer="91"/>
-<junction x="139.7" y="104.14"/>
-<pinref part="U1" gate="A" pin="GND_3"/>
-<wire x1="139.7" y1="101.6" x2="139.7" y2="99.06" width="0.1524" layer="91"/>
-<junction x="139.7" y="101.6"/>
-<pinref part="U1" gate="A" pin="GND"/>
-<junction x="139.7" y="99.06"/>
-<wire x1="139.7" y1="99.06" x2="134.62" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="U3" gate="A" pin="GND"/>
 <wire x1="134.62" y1="58.42" x2="134.62" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="134.62" y1="45.72" x2="134.62" y2="40.64" width="0.1524" layer="91"/>
@@ -2232,25 +2225,57 @@ naming: grid - package width</description>
 <wire x1="139.7" y1="-20.32" x2="134.62" y2="-20.32" width="0.1524" layer="91"/>
 <pinref part="U4" gate="A" pin="~OE"/>
 <wire x1="139.7" y1="-83.82" x2="134.62" y2="-83.82" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="~OE"/>
-<wire x1="139.7" y1="109.22" x2="139.7" y2="104.14" width="0.1524" layer="91"/>
 <junction x="134.62" y="45.72"/>
 <junction x="134.62" y="-20.32"/>
 <junction x="134.62" y="-83.82"/>
 <wire x1="116.84" y1="58.42" x2="134.62" y2="58.42" width="0.1524" layer="91"/>
 <junction x="116.84" y="58.42"/>
-<junction x="134.62" y="58.42"/>
-<pinref part="U1" gate="A" pin="GND_2"/>
 <pinref part="U2" gate="A" pin="~OE"/>
 <pinref part="U4" gate="A" pin="GND"/>
+<wire x1="53.34" y1="48.26" x2="53.34" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="10.16" x2="299.72" y2="10.16" width="0.1524" layer="91"/>
+<junction x="53.34" y="48.26"/>
+<wire x1="134.62" y1="58.42" x2="134.62" y2="99.06" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="~OE"/>
+<wire x1="134.62" y1="99.06" x2="134.62" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="101.6" x2="134.62" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="104.14" x2="134.62" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="109.22" x2="139.7" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="GND_2"/>
+<wire x1="134.62" y1="104.14" x2="139.7" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="GND_3"/>
+<wire x1="134.62" y1="101.6" x2="139.7" y2="101.6" width="0.1524" layer="91"/>
+<junction x="134.62" y="104.14"/>
+<junction x="134.62" y="101.6"/>
+<junction x="134.62" y="58.42"/>
+<pinref part="LCD" gate="-1" pin="1"/>
+<wire x1="320.04" y1="88.9" x2="299.72" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="88.9" x2="299.72" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="86.36" x2="299.72" y2="17.78" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="17.78" x2="299.72" y2="10.16" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-2" pin="1"/>
+<wire x1="299.72" y1="10.16" x2="299.72" y2="-2.54" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="86.36" x2="320.04" y2="86.36" width="0.1524" layer="91"/>
+<junction x="299.72" y="86.36"/>
+<pinref part="LCD" gate="-29" pin="1"/>
+<wire x1="320.04" y1="17.78" x2="299.72" y2="17.78" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-37" pin="1"/>
+<wire x1="320.04" y1="-2.54" x2="299.72" y2="-2.54" width="0.1524" layer="91"/>
+<junction x="299.72" y="17.78"/>
+<junction x="299.72" y="10.16"/>
+<pinref part="LCD" gate="-38" pin="1"/>
+<wire x1="320.04" y1="-5.08" x2="299.72" y2="-5.08" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="-2.54" x2="299.72" y2="-5.08" width="0.1524" layer="91"/>
+<junction x="299.72" y="-2.54"/>
+<pinref part="U1" gate="A" pin="GND"/>
+<wire x1="139.7" y1="99.06" x2="134.62" y2="99.06" width="0.1524" layer="91"/>
+<junction x="134.62" y="99.06"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
-<pinref part="U1" gate="A" pin="VCCA"/>
-<wire x1="139.7" y1="119.38" x2="121.92" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="U2" gate="A" pin="VCCA"/>
-<wire x1="121.92" y1="114.3" x2="124.46" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="114.3" x2="124.46" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="55.88" x2="139.7" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="124.46" y1="55.88" x2="124.46" y2="53.34" width="0.1524" layer="91"/>
 <pinref part="U4" gate="A" pin="DIR"/>
@@ -2269,8 +2294,7 @@ naming: grid - package width</description>
 <pinref part="U2" gate="A" pin="DIR"/>
 <wire x1="139.7" y1="50.8" x2="124.46" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="U1" gate="A" pin="DIR"/>
-<wire x1="139.7" y1="114.3" x2="121.92" y2="114.3" width="0.1524" layer="91"/>
-<junction x="121.92" y="114.3"/>
+<wire x1="139.7" y1="114.3" x2="124.46" y2="114.3" width="0.1524" layer="91"/>
 <junction x="124.46" y="55.88"/>
 <junction x="124.46" y="50.8"/>
 <junction x="124.46" y="-10.16"/>
@@ -2280,10 +2304,560 @@ naming: grid - package width</description>
 <wire x1="60.96" y1="48.26" x2="60.96" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="53.34" x2="124.46" y2="53.34" width="0.1524" layer="91"/>
 <junction x="124.46" y="53.34"/>
+<pinref part="U1" gate="A" pin="VCCA"/>
+<wire x1="139.7" y1="119.38" x2="124.46" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="124.46" y1="119.38" x2="124.46" y2="114.3" width="0.1524" layer="91"/>
+<junction x="124.46" y="114.3"/>
 </segment>
 </net>
-<net name="N$6" class="0">
+<net name="LCD_DATA0" class="0">
 <segment>
+<pinref part="U1" gate="A" pin="B1"/>
+<wire x1="200.66" y1="109.22" x2="175.26" y2="109.22" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-21" pin="1"/>
+<wire x1="309.88" y1="38.1" x2="320.04" y2="38.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA2" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="B3"/>
+<wire x1="200.66" y1="114.3" x2="175.26" y2="114.3" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-23" pin="1"/>
+<wire x1="309.88" y1="33.02" x2="320.04" y2="33.02" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA4" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="B5"/>
+<wire x1="200.66" y1="119.38" x2="175.26" y2="119.38" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-25" pin="1"/>
+<wire x1="309.88" y1="27.94" x2="320.04" y2="27.94" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA6" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="B7"/>
+<wire x1="200.66" y1="124.46" x2="175.26" y2="124.46" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-27" pin="1"/>
+<wire x1="309.88" y1="22.86" x2="320.04" y2="22.86" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA8" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B1"/>
+<wire x1="200.66" y1="45.72" x2="175.26" y2="45.72" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-13" pin="1"/>
+<wire x1="309.88" y1="58.42" x2="320.04" y2="58.42" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA10" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B3"/>
+<wire x1="200.66" y1="50.8" x2="175.26" y2="50.8" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-15" pin="1"/>
+<wire x1="309.88" y1="53.34" x2="320.04" y2="53.34" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA12" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B5"/>
+<wire x1="200.66" y1="55.88" x2="175.26" y2="55.88" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-17" pin="1"/>
+<wire x1="309.88" y1="48.26" x2="320.04" y2="48.26" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA14" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B7"/>
+<wire x1="200.66" y1="60.96" x2="175.26" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-19" pin="1"/>
+<wire x1="309.88" y1="43.18" x2="320.04" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA16" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="B1"/>
+<wire x1="200.66" y1="-20.32" x2="175.26" y2="-20.32" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-5" pin="1"/>
+<wire x1="309.88" y1="78.74" x2="320.04" y2="78.74" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA20" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="B5"/>
+<wire x1="200.66" y1="-10.16" x2="175.26" y2="-10.16" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-9" pin="1"/>
+<wire x1="309.88" y1="68.58" x2="320.04" y2="68.58" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA22" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="B7"/>
+<wire x1="200.66" y1="-5.08" x2="175.26" y2="-5.08" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-11" pin="1"/>
+<wire x1="309.88" y1="63.5" x2="320.04" y2="63.5" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA1" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="B2"/>
+<wire x1="200.66" y1="111.76" x2="175.26" y2="111.76" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-22" pin="1"/>
+<wire x1="309.88" y1="35.56" x2="320.04" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA3" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="B4"/>
+<wire x1="200.66" y1="116.84" x2="175.26" y2="116.84" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-24" pin="1"/>
+<wire x1="309.88" y1="30.48" x2="320.04" y2="30.48" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA5" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="B6"/>
+<wire x1="200.66" y1="121.92" x2="175.26" y2="121.92" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-26" pin="1"/>
+<wire x1="309.88" y1="25.4" x2="320.04" y2="25.4" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA9" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B2"/>
+<wire x1="200.66" y1="48.26" x2="175.26" y2="48.26" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-14" pin="1"/>
+<wire x1="309.88" y1="55.88" x2="320.04" y2="55.88" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA11" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B4"/>
+<wire x1="200.66" y1="53.34" x2="175.26" y2="53.34" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-16" pin="1"/>
+<wire x1="309.88" y1="50.8" x2="320.04" y2="50.8" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA13" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B6"/>
+<wire x1="200.66" y1="58.42" x2="175.26" y2="58.42" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-18" pin="1"/>
+<wire x1="309.88" y1="45.72" x2="320.04" y2="45.72" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA15" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="B8"/>
+<wire x1="200.66" y1="63.5" x2="175.26" y2="63.5" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-20" pin="1"/>
+<wire x1="309.88" y1="40.64" x2="320.04" y2="40.64" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA17" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="B2"/>
+<wire x1="200.66" y1="-17.78" x2="175.26" y2="-17.78" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-6" pin="1"/>
+<wire x1="309.88" y1="76.2" x2="320.04" y2="76.2" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA19" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="B4"/>
+<wire x1="200.66" y1="-12.7" x2="175.26" y2="-12.7" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-8" pin="1"/>
+<wire x1="309.88" y1="71.12" x2="320.04" y2="71.12" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA23" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="B8"/>
+<wire x1="200.66" y1="-2.54" x2="175.26" y2="-2.54" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-12" pin="1"/>
+<wire x1="309.88" y1="60.96" x2="320.04" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LCD_DATA21" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="B6"/>
+<wire x1="200.66" y1="-7.62" x2="175.26" y2="-7.62" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LCD" gate="-10" pin="1"/>
+<wire x1="309.88" y1="66.04" x2="320.04" y2="66.04" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="HSYNC\" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="HSYNC"/>
+<wire x1="104.14" y1="40.64" x2="119.38" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="40.64" x2="119.38" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="119.38" y1="-121.92" x2="185.42" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="-121.92" x2="185.42" y2="-106.68" width="0.1524" layer="91"/>
+<pinref part="U4" gate="A" pin="A8"/>
+<wire x1="185.42" y1="-106.68" x2="175.26" y2="-106.68" width="0.1524" layer="91"/>
+<label x="121.92" y="-121.92" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$5" class="0">
+<segment>
+<pinref part="U4" gate="A" pin="B8"/>
+<wire x1="175.26" y1="-66.04" x2="312.42" y2="-66.04" width="0.1524" layer="91"/>
+<wire x1="312.42" y1="-66.04" x2="312.42" y2="10.16" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-32" pin="1"/>
+<wire x1="312.42" y1="10.16" x2="320.04" y2="10.16" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="VSYNC" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="VSYNC"/>
+<wire x1="60.96" y1="40.64" x2="55.88" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="40.64" x2="55.88" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="-124.46" x2="187.96" y2="-124.46" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="-124.46" x2="187.96" y2="-104.14" width="0.1524" layer="91"/>
+<pinref part="U4" gate="A" pin="A7"/>
+<wire x1="187.96" y1="-104.14" x2="175.26" y2="-104.14" width="0.1524" layer="91"/>
+<label x="109.22" y="-124.46" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$9" class="0">
+<segment>
+<wire x1="314.96" y1="-68.58" x2="314.96" y2="7.62" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-33" pin="1"/>
+<wire x1="320.04" y1="7.62" x2="314.96" y2="7.62" width="0.1524" layer="91"/>
+<pinref part="U4" gate="A" pin="B7"/>
+<wire x1="175.26" y1="-68.58" x2="314.96" y2="-68.58" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="PCLK" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="PCLK"/>
+<wire x1="60.96" y1="35.56" x2="58.42" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="35.56" x2="58.42" y2="-127" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="-127" x2="190.5" y2="-127" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="-127" x2="190.5" y2="-101.6" width="0.1524" layer="91"/>
+<pinref part="U4" gate="A" pin="A6"/>
+<wire x1="190.5" y1="-101.6" x2="175.26" y2="-101.6" width="0.1524" layer="91"/>
+<label x="109.22" y="-127" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$10" class="0">
+<segment>
+<pinref part="U4" gate="A" pin="B6"/>
+<wire x1="175.26" y1="-71.12" x2="309.88" y2="-71.12" width="0.1524" layer="91"/>
+<wire x1="309.88" y1="-71.12" x2="309.88" y2="15.24" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-30" pin="1"/>
+<wire x1="309.88" y1="15.24" x2="320.04" y2="15.24" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="DEN" class="0">
+<segment>
+<pinref part="U$1" gate="G$1" pin="ACBIAS"/>
+<wire x1="60.96" y1="38.1" x2="50.8" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="38.1" x2="50.8" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="-129.54" x2="193.04" y2="-129.54" width="0.1524" layer="91"/>
+<wire x1="193.04" y1="-129.54" x2="193.04" y2="-99.06" width="0.1524" layer="91"/>
+<pinref part="U4" gate="A" pin="A5"/>
+<wire x1="175.26" y1="-99.06" x2="193.04" y2="-99.06" width="0.1524" layer="91"/>
+<label x="109.22" y="-129.54" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="N$11" class="0">
+<segment>
+<pinref part="U4" gate="A" pin="B5"/>
+<wire x1="175.26" y1="-73.66" x2="307.34" y2="-73.66" width="0.1524" layer="91"/>
+<wire x1="307.34" y1="-73.66" x2="307.34" y2="5.08" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-34" pin="1"/>
+<wire x1="307.34" y1="5.08" x2="320.04" y2="5.08" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA0" class="0">
+<segment>
+<wire x1="190.5" y1="104.14" x2="175.26" y2="104.14" width="0.1524" layer="91"/>
+<pinref part="U1" gate="A" pin="A1"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D0"/>
+<wire x1="-20.32" y1="45.72" x2="0" y2="45.72" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA1" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="A2"/>
+<wire x1="190.5" y1="101.6" x2="175.26" y2="101.6" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D1"/>
+<wire x1="43.18" y1="45.72" x2="38.1" y2="45.72" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA2" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="A3"/>
+<wire x1="190.5" y1="99.06" x2="175.26" y2="99.06" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D2"/>
+<wire x1="-20.32" y1="43.18" x2="0" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA3" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="A4"/>
+<wire x1="190.5" y1="96.52" x2="175.26" y2="96.52" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D3"/>
+<wire x1="43.18" y1="43.18" x2="38.1" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA4" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="A5"/>
+<wire x1="190.5" y1="93.98" x2="175.26" y2="93.98" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D4"/>
+<wire x1="-20.32" y1="40.64" x2="0" y2="40.64" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA5" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="A6"/>
+<wire x1="190.5" y1="91.44" x2="175.26" y2="91.44" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D5"/>
+<wire x1="43.18" y1="40.64" x2="38.1" y2="40.64" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA6" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="A7"/>
+<wire x1="190.5" y1="88.9" x2="175.26" y2="88.9" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D6"/>
+<wire x1="-20.32" y1="38.1" x2="0" y2="38.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA7" class="0">
+<segment>
+<pinref part="U1" gate="A" pin="A8"/>
+<wire x1="190.5" y1="86.36" x2="175.26" y2="86.36" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D7"/>
+<wire x1="43.18" y1="38.1" x2="38.1" y2="38.1" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA8" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A1"/>
+<wire x1="190.5" y1="40.64" x2="175.26" y2="40.64" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D8"/>
+<wire x1="-20.32" y1="35.56" x2="0" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA9" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A2"/>
+<wire x1="190.5" y1="38.1" x2="175.26" y2="38.1" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D9"/>
+<wire x1="43.18" y1="35.56" x2="38.1" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA10" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A3"/>
+<wire x1="190.5" y1="35.56" x2="175.26" y2="35.56" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D10"/>
+<wire x1="-20.32" y1="33.02" x2="0" y2="33.02" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA11" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A4"/>
+<wire x1="190.5" y1="33.02" x2="175.26" y2="33.02" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D11"/>
+<wire x1="43.18" y1="33.02" x2="38.1" y2="33.02" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA12" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A5"/>
+<wire x1="190.5" y1="30.48" x2="175.26" y2="30.48" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D12"/>
+<wire x1="-20.32" y1="30.48" x2="0" y2="30.48" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA13" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A6"/>
+<wire x1="190.5" y1="27.94" x2="175.26" y2="27.94" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D13"/>
+<wire x1="43.18" y1="30.48" x2="38.1" y2="30.48" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA14" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A7"/>
+<wire x1="190.5" y1="25.4" x2="175.26" y2="25.4" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D14"/>
+<wire x1="-20.32" y1="27.94" x2="0" y2="27.94" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA15" class="0">
+<segment>
+<pinref part="U2" gate="A" pin="A8"/>
+<wire x1="190.5" y1="22.86" x2="175.26" y2="22.86" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D15"/>
+<wire x1="43.18" y1="27.94" x2="38.1" y2="27.94" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA16" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A1"/>
+<wire x1="190.5" y1="-25.4" x2="175.26" y2="-25.4" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D16"/>
+<wire x1="-20.32" y1="25.4" x2="0" y2="25.4" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA17" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A2"/>
+<wire x1="190.5" y1="-27.94" x2="175.26" y2="-27.94" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D17"/>
+<wire x1="43.18" y1="25.4" x2="38.1" y2="25.4" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA18" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A3"/>
+<wire x1="190.5" y1="-30.48" x2="175.26" y2="-30.48" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D18"/>
+<wire x1="-20.32" y1="22.86" x2="0" y2="22.86" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA19" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A4"/>
+<wire x1="190.5" y1="-33.02" x2="175.26" y2="-33.02" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D19"/>
+<wire x1="43.18" y1="22.86" x2="38.1" y2="22.86" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA20" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A5"/>
+<wire x1="190.5" y1="-35.56" x2="175.26" y2="-35.56" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D20"/>
+<wire x1="-20.32" y1="20.32" x2="0" y2="20.32" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA21" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A6"/>
+<wire x1="190.5" y1="-38.1" x2="175.26" y2="-38.1" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D21"/>
+<wire x1="43.18" y1="20.32" x2="38.1" y2="20.32" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA22" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A7"/>
+<wire x1="190.5" y1="-40.64" x2="175.26" y2="-40.64" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D22"/>
+<wire x1="-20.32" y1="17.78" x2="0" y2="17.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="IGEP_LCD_DATA23" class="0">
+<segment>
+<pinref part="U3" gate="A" pin="A8"/>
+<wire x1="190.5" y1="-43.18" x2="175.26" y2="-43.18" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="U$1" gate="G$1" pin="D23"/>
+<wire x1="43.18" y1="17.78" x2="38.1" y2="17.78" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$3" class="0">
+<segment>
+<pinref part="LCD" gate="-3" pin="1"/>
+<wire x1="320.04" y1="83.82" x2="289.56" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="G$1" pin="OUT"/>
 <wire x1="66.04" y1="83.82" x2="60.96" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="C1" gate="G$1" pin="1"/>
@@ -2294,7 +2868,8 @@ naming: grid - package width</description>
 <pinref part="U1" gate="A" pin="VCCB"/>
 <wire x1="129.54" y1="124.46" x2="139.7" y2="124.46" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="124.46" x2="129.54" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="83.82" x2="129.54" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="83.82" x2="129.54" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="73.66" x2="129.54" y2="63.5" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="63.5" x2="129.54" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="60.96" x2="129.54" y2="-2.54" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="-2.54" x2="129.54" y2="-5.08" width="0.1524" layer="91"/>
@@ -2321,342 +2896,37 @@ naming: grid - package width</description>
 <wire x1="66.04" y1="83.82" x2="129.54" y2="83.82" width="0.1524" layer="91"/>
 <junction x="66.04" y="83.82"/>
 <pinref part="U4" gate="A" pin="VCCB"/>
-</segment>
-</net>
-<net name="LCD_DATA0" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D0"/>
-<wire x1="-20.32" y1="45.72" x2="0" y2="45.72" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<wire x1="190.5" y1="104.14" x2="175.26" y2="104.14" width="0.1524" layer="91"/>
-<pinref part="U1" gate="A" pin="A1"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="B1"/>
-<wire x1="200.66" y1="109.22" x2="175.26" y2="109.22" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA2" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D2"/>
-<wire x1="-20.32" y1="43.18" x2="0" y2="43.18" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="A3"/>
-<wire x1="190.5" y1="99.06" x2="175.26" y2="99.06" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="B3"/>
-<wire x1="200.66" y1="114.3" x2="175.26" y2="114.3" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA4" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D4"/>
-<wire x1="-20.32" y1="40.64" x2="0" y2="40.64" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="A5"/>
-<wire x1="190.5" y1="93.98" x2="175.26" y2="93.98" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="B5"/>
-<wire x1="200.66" y1="119.38" x2="175.26" y2="119.38" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA6" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D6"/>
-<wire x1="-20.32" y1="38.1" x2="0" y2="38.1" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="A7"/>
-<wire x1="190.5" y1="88.9" x2="175.26" y2="88.9" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="B7"/>
-<wire x1="200.66" y1="124.46" x2="175.26" y2="124.46" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA8" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D8"/>
-<wire x1="-20.32" y1="35.56" x2="0" y2="35.56" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A1"/>
-<wire x1="190.5" y1="40.64" x2="175.26" y2="40.64" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B1"/>
-<wire x1="200.66" y1="45.72" x2="175.26" y2="45.72" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA10" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D10"/>
-<wire x1="-20.32" y1="33.02" x2="0" y2="33.02" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A3"/>
-<wire x1="190.5" y1="35.56" x2="175.26" y2="35.56" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B3"/>
-<wire x1="200.66" y1="50.8" x2="175.26" y2="50.8" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA12" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D12"/>
-<wire x1="-20.32" y1="30.48" x2="0" y2="30.48" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A5"/>
-<wire x1="190.5" y1="30.48" x2="175.26" y2="30.48" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B5"/>
-<wire x1="200.66" y1="55.88" x2="175.26" y2="55.88" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA14" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D14"/>
-<wire x1="-20.32" y1="27.94" x2="0" y2="27.94" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A7"/>
-<wire x1="190.5" y1="25.4" x2="175.26" y2="25.4" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B7"/>
-<wire x1="200.66" y1="60.96" x2="175.26" y2="60.96" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA16" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D16"/>
-<wire x1="-20.32" y1="25.4" x2="0" y2="25.4" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A1"/>
-<wire x1="190.5" y1="-25.4" x2="175.26" y2="-25.4" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="B1"/>
-<wire x1="200.66" y1="-20.32" x2="175.26" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="73.66" x2="289.56" y2="73.66" width="0.1524" layer="91"/>
+<junction x="129.54" y="73.66"/>
+<pinref part="LCD" gate="-31" pin="1"/>
+<wire x1="320.04" y1="12.7" x2="289.56" y2="12.7" width="0.1524" layer="91"/>
+<wire x1="289.56" y1="73.66" x2="289.56" y2="12.7" width="0.1524" layer="91"/>
+<junction x="289.56" y="73.66"/>
+<wire x1="289.56" y1="83.82" x2="289.56" y2="81.28" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-4" pin="1"/>
+<wire x1="289.56" y1="81.28" x2="289.56" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="320.04" y1="81.28" x2="289.56" y2="81.28" width="0.1524" layer="91"/>
+<junction x="289.56" y="81.28"/>
 </segment>
 </net>
 <net name="LCD_DATA18" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="D18"/>
-<wire x1="-20.32" y1="22.86" x2="0" y2="22.86" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A3"/>
-<wire x1="190.5" y1="-30.48" x2="175.26" y2="-30.48" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-7" pin="1"/>
+<wire x1="309.88" y1="73.66" x2="320.04" y2="73.66" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U3" gate="A" pin="B3"/>
 <wire x1="200.66" y1="-15.24" x2="175.26" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="LCD_DATA20" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D20"/>
-<wire x1="-20.32" y1="20.32" x2="0" y2="20.32" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A5"/>
-<wire x1="190.5" y1="-35.56" x2="175.26" y2="-35.56" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="B5"/>
-<wire x1="200.66" y1="-10.16" x2="175.26" y2="-10.16" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA22" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D22"/>
-<wire x1="-20.32" y1="17.78" x2="0" y2="17.78" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A7"/>
-<wire x1="190.5" y1="-40.64" x2="175.26" y2="-40.64" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="B7"/>
-<wire x1="200.66" y1="-5.08" x2="175.26" y2="-5.08" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA1" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D1"/>
-<wire x1="43.18" y1="45.72" x2="38.1" y2="45.72" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="A2"/>
-<wire x1="190.5" y1="101.6" x2="175.26" y2="101.6" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="B2"/>
-<wire x1="200.66" y1="111.76" x2="175.26" y2="111.76" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA3" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D3"/>
-<wire x1="43.18" y1="43.18" x2="38.1" y2="43.18" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="A4"/>
-<wire x1="190.5" y1="96.52" x2="175.26" y2="96.52" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="B4"/>
-<wire x1="200.66" y1="116.84" x2="175.26" y2="116.84" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA5" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D5"/>
-<wire x1="43.18" y1="40.64" x2="38.1" y2="40.64" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="A6"/>
-<wire x1="190.5" y1="91.44" x2="175.26" y2="91.44" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="B6"/>
-<wire x1="200.66" y1="121.92" x2="175.26" y2="121.92" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="LCD_DATA7" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D7"/>
-<wire x1="43.18" y1="38.1" x2="38.1" y2="38.1" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U1" gate="A" pin="A8"/>
-<wire x1="190.5" y1="86.36" x2="175.26" y2="86.36" width="0.1524" layer="91"/>
-</segment>
 <segment>
 <pinref part="U1" gate="A" pin="B8"/>
 <wire x1="200.66" y1="127" x2="175.26" y2="127" width="0.1524" layer="91"/>
 </segment>
-</net>
-<net name="LCD_DATA9" class="0">
 <segment>
-<pinref part="U$1" gate="G$1" pin="D9"/>
-<wire x1="43.18" y1="35.56" x2="38.1" y2="35.56" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A2"/>
-<wire x1="190.5" y1="38.1" x2="175.26" y2="38.1" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B2"/>
-<wire x1="200.66" y1="48.26" x2="175.26" y2="48.26" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA11" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D11"/>
-<wire x1="43.18" y1="33.02" x2="38.1" y2="33.02" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A4"/>
-<wire x1="190.5" y1="33.02" x2="175.26" y2="33.02" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B4"/>
-<wire x1="200.66" y1="53.34" x2="175.26" y2="53.34" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA13" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D13"/>
-<wire x1="43.18" y1="30.48" x2="38.1" y2="30.48" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A6"/>
-<wire x1="190.5" y1="27.94" x2="175.26" y2="27.94" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B6"/>
-<wire x1="200.66" y1="58.42" x2="175.26" y2="58.42" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA15" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D15"/>
-<wire x1="43.18" y1="27.94" x2="38.1" y2="27.94" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="A8"/>
-<wire x1="190.5" y1="22.86" x2="175.26" y2="22.86" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U2" gate="A" pin="B8"/>
-<wire x1="200.66" y1="63.5" x2="175.26" y2="63.5" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA17" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D17"/>
-<wire x1="43.18" y1="25.4" x2="38.1" y2="25.4" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A2"/>
-<wire x1="190.5" y1="-27.94" x2="175.26" y2="-27.94" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="B2"/>
-<wire x1="200.66" y1="-17.78" x2="175.26" y2="-17.78" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA19" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D19"/>
-<wire x1="43.18" y1="22.86" x2="38.1" y2="22.86" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A4"/>
-<wire x1="190.5" y1="-33.02" x2="175.26" y2="-33.02" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="B4"/>
-<wire x1="200.66" y1="-12.7" x2="175.26" y2="-12.7" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA23" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D23"/>
-<wire x1="43.18" y1="17.78" x2="38.1" y2="17.78" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A8"/>
-<wire x1="190.5" y1="-43.18" x2="175.26" y2="-43.18" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="B8"/>
-<wire x1="200.66" y1="-2.54" x2="175.26" y2="-2.54" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="LCD_DATA21" class="0">
-<segment>
-<pinref part="U$1" gate="G$1" pin="D21"/>
-<wire x1="43.18" y1="20.32" x2="38.1" y2="20.32" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="A6"/>
-<wire x1="190.5" y1="-38.1" x2="175.26" y2="-38.1" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U3" gate="A" pin="B6"/>
-<wire x1="200.66" y1="-7.62" x2="175.26" y2="-7.62" width="0.1524" layer="91"/>
+<pinref part="LCD" gate="-28" pin="1"/>
+<wire x1="309.88" y1="20.32" x2="320.04" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
