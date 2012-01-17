@@ -1,0 +1,23 @@
+Name                    Amount      Farnell
+
+# Display
+40" FFC                 1           tbd
+SN74LVC8T245PW          4           1236407
+20 pins header (male)   1           1865289
+28 pins header (male)   1           tbd
+20 pins header (female) 1           tbd
+28 pins header (female) 1           tbd
+LM1117 (SOT223)         1           1469051
+Capacitor 10 uF         1           tbd
+Capacitor 22 uF         1           tbd
+
+
+# Touchscreen
+Touchscreen controller               tbd
+Capacitors touchscreen               tbd
+
+# Backlight
+
+
+
+
