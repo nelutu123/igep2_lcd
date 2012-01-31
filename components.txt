@@ -19,4 +19,5 @@ Touchscreen connector (Hirose FH19C-4S-0.5SH)   1           tbd
 # Backlight
 Backlight controller                            1           tbd
 Backlight connector (Kyocera 04-6298-006-883)   1           tbd
+D1,D2,D3: BAT54WS-7-F                           3           1843687
 
