@@ -8,8 +8,8 @@ SN74LVC8T245PW                                  4           1236407
 20 pins header (female)                         1           tbd
 28 pins header (female)                         1           tbd
 LM1117 (SOT223)                                 1           1469051
-Capacitor 10 uF                                 1           1754217
-Capacitor 22 uF                                 1           1754235 
+Capacitor 10 uF SMD 1206                        1           1759445
+Capacitor 22 uF SMD 1206                        1           1759435
 
 
 # Touchscreen
@@ -20,8 +20,10 @@ Touchscreen connector (Hirose FH19C-4S-0.5SH)   1           tbd
 Backlight controller (MIC2287)                  3           1663103
 Backlight connector HRS-FH12-6S-0.5SH           1           1324538
 D1,D2,D3: BAT54WS-7-F                           3           1843687
-Capacitor 1uF                                   3           1754225
-Capacitor 0.22uF                                3           1754220
-Inductor 10uH ELJFA100JF                        3           1198456
-Resistor 5.1 Ohm                                3           1158066
+Capacitor 1uF SMD 1206                          3           9227873
+Capacitor 0.22uF SMD 1206                       3           1709304
+Inductor 10uH ELJFA100JF SMD 1210               3           1836609
+Resistor 5.1 Ohm SMD 1206                       3           1158066
 
+# Decoupling capacitors
+100nF SMD 1206                                 27           1709234
