@@ -10571,7 +10571,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="BL_PWM_3" library="testpad" deviceset="TP" device="B1,27"/>
 <part name="U$5" library="lcd-bl" deviceset="LCD_BL" device=""/>
 <part name="U$6" library="ads7843" deviceset="ADS7843" device=""/>
-<part name="C12" library="rcl" deviceset="C-EU" device="050-025X075" value="0.1uF"/>
 <part name="C40" library="rcl" deviceset="C-EU" device="C1206" value="100nF"/>
 <part name="C16" library="rcl" deviceset="C-EU" device="C1206" value="100nF"/>
 <part name="C17" library="rcl" deviceset="C-EU" device="C1206" value="100nF"/>
@@ -10616,6 +10615,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="L2" library="resistor" deviceset="R-EU_" device="R1210" value="10uH"/>
 <part name="C11" library="rcl" deviceset="C-EU" device="C1206" value="10uF"/>
 <part name="C2" library="rcl" deviceset="C-EU" device="C1206" value="22uF"/>
+<part name="C1" library="rcl" deviceset="C-EU" device="C1206" value="100nF"/>
 </parts>
 <sheets>
 <sheet>
@@ -10684,7 +10684,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="BL_PWM_3" gate="G$1" x="81.28" y="-289.56"/>
 <instance part="U$5" gate="G$1" x="208.28" y="-231.14" rot="MR270"/>
 <instance part="U$6" gate="G$1" x="106.68" y="-350.52"/>
-<instance part="C12" gate="G$1" x="132.08" y="121.92"/>
 <instance part="C40" gate="G$1" x="203.2" y="127" rot="R90"/>
 <instance part="C16" gate="G$1" x="205.74" y="124.46" rot="R90"/>
 <instance part="C17" gate="G$1" x="203.2" y="121.92" rot="R90"/>
@@ -10729,6 +10728,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <instance part="L2" gate="G$1" x="106.68" y="-162.56"/>
 <instance part="C11" gate="G$1" x="48.26" y="71.12"/>
 <instance part="C2" gate="G$1" x="66.04" y="71.12"/>
+<instance part="C1" gate="G$1" x="132.08" y="121.92"/>
 </instances>
 <busses>
 <bus name="IGEP_LCD_DATA[0..23]">
@@ -11498,8 +11498,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="289.56" y1="81.28" x2="289.56" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="320.04" y1="81.28" x2="289.56" y2="81.28" width="0.1524" layer="91"/>
 <junction x="289.56" y="81.28"/>
-<pinref part="C12" gate="G$1" pin="1"/>
-<junction x="132.08" y="124.46"/>
 <pinref part="C39" gate="G$1" pin="1"/>
 <junction x="132.08" y="-5.08"/>
 <pinref part="C14" gate="G$1" pin="1"/>
@@ -11507,6 +11505,8 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="C13" gate="G$1" pin="1"/>
 <junction x="132.08" y="60.96"/>
 <pinref part="C2" gate="G$1" pin="1"/>
+<pinref part="C1" gate="G$1" pin="1"/>
+<junction x="132.08" y="124.46"/>
 </segment>
 </net>
 <net name="LCD_DATA18" class="0">
@@ -11930,7 +11930,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="132.08" y1="-30.48" x2="132.08" y2="-12.7" width="0.1524" layer="91"/>
 <wire x1="134.62" y1="35.56" x2="132.08" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="35.56" x2="132.08" y2="53.34" width="0.1524" layer="91"/>
-<pinref part="C12" gate="G$1" pin="2"/>
 <wire x1="134.62" y1="99.06" x2="132.08" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="99.06" x2="132.08" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="C39" gate="G$1" pin="2"/>
@@ -11950,6 +11949,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <pinref part="R2" gate="G$1" pin="1"/>
 <pinref part="C11" gate="G$1" pin="2"/>
 <pinref part="C2" gate="G$1" pin="2"/>
+<pinref part="C1" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$1" class="0">
