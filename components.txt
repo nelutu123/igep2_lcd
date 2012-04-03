@@ -1,7 +1,7 @@
 Name                                            Amount      Farnell
 
 # Display
-40" FFC (Hirose FH28H-40S-0.5SH)                1           tbd
+40" FFC (Hirose FH28H-40S-0.5SH)                1           1830637 (top)
 SN74LVC8T245PW                                  4           1236407
 20 pins header (male)                           1           1865289
 28 pins header (male)                           1           1022307 (2x20)
