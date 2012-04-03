@@ -4,9 +4,9 @@ Name                                            Amount      Farnell
 40" FFC (Hirose FH28H-40S-0.5SH)                1           tbd
 SN74LVC8T245PW                                  4           1236407
 20 pins header (male)                           1           1865289
-28 pins header (male)                           1           tbd
-20 pins header (female)                         1           tbd
-28 pins header (female)                         1           tbd
+28 pins header (male)                           1           1022307 (2x20)
+20 pins header (female)                         1           1865317
+28 pins header (female)                         1           1022302
 LM1117 (SOT223)                                 1           1469051
 Capacitor 10 uF SMD 1206                        1           1759445
 Capacitor 22 uF SMD 1206                        1           1759435
@@ -14,7 +14,7 @@ Capacitor 22 uF SMD 1206                        1           1759435
 
 # Touchscreen
 Touchscreen controller ADS7843                  1           1206871
-Touchscreen connector (Hirose FH19C-4S-0.5SH)   1           tbd
+Touchscreen connector (Hirose FH19C-4S-0.5SH)   1           1888036
 
 # Backlight
 Backlight controller (MIC2287)                  3           1663103
