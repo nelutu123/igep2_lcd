@@ -26,4 +26,4 @@ Inductor 10uH ELJFA100JF SMD 1210               3           1836609
 Resistor 5.1 Ohm SMD 1206                       3           1158066
 
 # Decoupling capacitors
-100nF SMD 1206                                 27           1709234
+100nF SMD 1206                                 32           1709234
