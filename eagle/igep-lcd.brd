@@ -6,13 +6,13 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="1" altunitdist="mm" altunit="mm"/>
+<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="no" altdistance="1" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
@@ -37,12 +37,12 @@
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
@@ -63,7 +63,6 @@
 <wire x1="99.89" y1="59.57" x2="0" y2="59.57" width="0" layer="20"/>
 <wire x1="0" y1="59.57" x2="0" y2="0" width="0" layer="20"/>
 <hole x="97" y="57" drill="2.8"/>
-<hole x="97" y="3" drill="2.8"/>
 <hole x="3" y="3" drill="2.8"/>
 <hole x="3" y="56" drill="2.8"/>
 </plain>
@@ -4849,7 +4848,7 @@ design rules under a new name.</description>
 <wire x1="28.1178" y1="17.3258" x2="27.178" y2="17.3258" width="0.0762" layer="1"/>
 </signal>
 <signal name="N$59">
-<polygon width="0.0762" layer="1">
+<polygon width="0.0762" layer="1" isolate="1">
 <vertex x="1" y="59"/>
 <vertex x="99" y="59"/>
 <vertex x="99" y="1"/>
@@ -4857,7 +4856,7 @@ design rules under a new name.</description>
 </polygon>
 </signal>
 <signal name="N$60">
-<polygon width="0.0762" layer="16">
+<polygon width="0.0762" layer="16" isolate="1">
 <vertex x="1" y="59"/>
 <vertex x="99" y="59"/>
 <vertex x="99" y="1"/>
@@ -4865,6 +4864,11 @@ design rules under a new name.</description>
 </polygon>
 </signal>
 </signals>
+<errors>
+<approved hash="4,1,fc48593d855bd02a"/>
+<approved hash="4,1,55e8593d859b298a"/>
+<approved hash="4,1,5529b29cde3b298a"/>
+</errors>
 </board>
 </drawing>
 </eagle>
