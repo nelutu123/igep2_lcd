@@ -1,0 +1,9 @@
+
+> howto load kernel from TFTP:
+tftpboot 0x80000000 uImage.bin
+
+> howto have root-over-nfs:
+setenv bootargs "console=ttyS2,115200n8 root=/dev/nfs rw nfsroot=192.168.128.116:/nfs/rootfs_igep2,nolock ip=192.168.128.132:192.168.128.116::255.255.255.0::eth0:off"
+boot
+
+
