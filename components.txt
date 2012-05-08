@@ -1,29 +1,33 @@
 Name                                            Amount      Farnell
 
+'+' means received in right quantity for 3 boards
+'-' means not received yet
+
 # Display
-40" FFC (Hirose FH28H-40S-0.5SH)                1           1830637 (top)
-SN74LVC8T245PW                                  4           1236407
-20 pins header (male)                           1           1865289
-28 pins header (male)                           1           1022307 (2x20)
-20 pins header (female)                         1           1865317
-28 pins header (female)                         1           1022302
-LM1117 (SOT223)                                 1           1469051
-Capacitor 10 uF SMD 1206                        1           1759445
-Capacitor 22 uF SMD 1206                        1           1759435
++40" FFC (Hirose FH28H-40S-0.5SH)                1           1830637 (top)
++SN74LVC8T245PW                                  4           1236407
++20 pins header (male)                           1           1865289
++28 pins header (male)                           1           1022307 (2x20)
++20 pins header (female)                         1           1865317
++28 pins header (female)                         1           1022302
++LM1117 (SOT223)                                 1           1469051
++Capacitor 10 uF SMD 1206                        1           1759445
++Capacitor 22 uF SMD 1206                        1           1759435
 
 
 # Touchscreen
-Touchscreen controller ADS7843                  1           1206871
-Touchscreen connector (Hirose FH19C-4S-0.5SH)   1           1888036
++Touchscreen controller ADS7843                  1           1206871
++Touchscreen connector (Hirose FH19C-4S-0.5SH)   1           1888036
 
 # Backlight
-Backlight controller (MIC2287)                  3           1663103
-Backlight connector HRS-FH12-6S-0.5SH           1           1324538
-D1,D2,D3: BAT54WS-7-F                           3           1843687
-Capacitor 1uF SMD 1206                          3           9227873
-Capacitor 0.22uF SMD 1206                       3           1709304
-Inductor 10uH ELJFA100JF SMD 1210               3           1836609
-Resistor 5.1 Ohm SMD 1206                       3           1158066
++Backlight controller (MIC2287)                  3           1663103
++Backlight connector HRS-FH12-6S-0.5SH           1           1324538
++D1,D2,D3: BAT54WS-7-F                           3           1843687
++Capacitor 1uF SMD 1206                          3           9227873
++Capacitor 0.22uF SMD 1206                       3           1709304
++Inductor 10uH ELJFA100JF SMD 1210               3           1836609
++Resistor 5.1 Ohm SMD 1206                       3           1158066
 
 # Decoupling capacitors
-100nF SMD 1206                                 32           1709234
++100nF SMD 1206                                 32           1709234
+
